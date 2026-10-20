@@ -1,0 +1,2 @@
+-- Le schéma effectif est géré par SQLAlchemy dans atelier_pvc/models.py.
+-- Ce fichier est un repère : les tables sont créées automatiquement au lancement.
